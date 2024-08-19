@@ -32,3 +32,8 @@ License
 Contributing
 
 •Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
+
+<img width="883" alt="evc1" src="https://github.com/user-attachments/assets/05fb607a-188d-4f23-95cd-6dcc13f8fc95">
+<img width="813" alt="ecv2" src="https://github.com/user-attachments/assets/12403c19-2380-4d68-9755-2384804fe756">
+<img width="1111" alt="evc3" src="https://github.com/user-attachments/assets/845f4c4e-42a2-405f-b5b5-f4aa16c5b456">
+
