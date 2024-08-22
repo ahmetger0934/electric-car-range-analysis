@@ -25,9 +25,9 @@ Map Output
 
 •The map will display the vehicle’s location, nearby charging stations, and the route to the nearest station, with color-coded markers for easy identification.
 
-License
+## Technologies Used
 
-•This project is licensed under the MIT License. See the LICENSE file for details.
+- **Programming Language:** Python
 
 Contributing
 
