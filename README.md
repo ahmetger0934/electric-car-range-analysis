@@ -1,6 +1,6 @@
 Electric Vehicle Range and Charging Station Finder
 
-This Python project calculates the nearest electric vehicle (EV) charging station, performs hypothesis testing on the vehicle’s range, and generates a map with the route to the nearest station. The project is designed to help EV owners manage their vehicle’s range more effectively by analyzing real-world data and providing insights on whether the vehicle can reach a nearby charging station.
+This Python project calculates the nearest electric vehicle (EV) charging station, performs hypothesis testing on the vehicle’s range, and generates a map with the route to the nearest station. The project is designed to help EV owners manage their vehicle’s range more effectively by analyzing real-world data and providing insights on whether the vehicle can reach a nearby charging station. (python.py)
 
 Features
 
